@@ -1,0 +1,8 @@
+name: Oxymora
+main: io.mewsub.oxymora.Oxymora
+version: 1.0
+api-version: 1.16
+commands:
+  oxymora:
+    description: All Oxymora development commands!
+    usage: /oxymora

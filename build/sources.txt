@@ -1,0 +1,3 @@
+io\mewsub\oxymora\Oxymora.class
+io\mewsub\oxymora\commands\OxymoraCommands.class
+io\mewsub\oxymora\listeners\PlayerInteractEntity.class
